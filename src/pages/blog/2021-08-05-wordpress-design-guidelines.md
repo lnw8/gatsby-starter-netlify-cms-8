@@ -5,6 +5,8 @@ date: 2021-08-05T15:33:54.121Z
 description: WordPress Design Guidelines
 featuredpost: true
 featuredimage: https://thewhitelabelagency.com/wp-content/uploads/2017/11/design-guidelines-home-page.png
+tags:
+  - wordpress
 ---
 <!--StartFragment-->
 
