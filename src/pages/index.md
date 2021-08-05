@@ -1,21 +1,30 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Why outsource your WordPress development?
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Development needn’t be your core competency.
+subheading: Digital agencies should know a thing or two about WordPress website
+  development, but they don’t need to code all sites themselves to
+  thrive.  Focus instead on web design and digital marketing services, while
+  outsourcing WordPress development to us.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: We make it easy to outsource WordPress development
+  description: >-
+    WordPress development for agencies is all we do, and the basics of it are
+    pretty simple.
+
+
+    Custom WordPress sites
+
+    Your sites will be custom coded, responsive and easy to use by default. We like to use ACF, CPT and either the Foundation or Bootstrap frameworks, but we are happy to accommodate most preferences.
+
+
+    Pay-per-project
+
+    If your workload varies a lot, you can outsource projects to us one-by-one. That way you can ensure that each website project you do is profitable, since you get a fixed-price quote on the build before you send the quote to your client.
+description: We offer custom WordPress development both as standalone projects
+  with no further commitment, and through renting out our skilled developers to
+  your agency part-time or full-time.
 intro:
   blurbs:
     - image: /img/coffee.png
