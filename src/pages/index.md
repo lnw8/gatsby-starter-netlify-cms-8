@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Why outsource your WordPress development?
-image: https://thewhitelabelagency.com/wp-content/uploads/2019/02/Dedicated-Developer.png
+image: /img/apple-touch-icon.png
 heading: Development needn’t be your core competency.
 subheading: Digital agencies should know a thing or two about WordPress
 mainpitch:
